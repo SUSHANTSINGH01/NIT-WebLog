@@ -34,6 +34,7 @@
     letter-spacing: 5px;
     /* position: relative; */
     background-attachment: fixed;
+    background-color: #fff;
 
 }
 .navbar-nav  li a:hover {
